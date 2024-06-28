@@ -1,0 +1,13 @@
+/home/blackai/AllFiles/pos_desktop/flutter_desktop_pos/build/linux/x64/debug/bundle/flutter_desktop_pos
+/home/blackai/AllFiles/pos_desktop/flutter_desktop_pos/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/blackai/AllFiles/pos_desktop/flutter_desktop_pos/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/blackai/AllFiles/pos_desktop/flutter_desktop_pos/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/blackai/AllFiles/pos_desktop/flutter_desktop_pos/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/blackai/AllFiles/pos_desktop/flutter_desktop_pos/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/blackai/AllFiles/pos_desktop/flutter_desktop_pos/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/blackai/AllFiles/pos_desktop/flutter_desktop_pos/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/blackai/AllFiles/pos_desktop/flutter_desktop_pos/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/blackai/AllFiles/pos_desktop/flutter_desktop_pos/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/malt.png
+/home/blackai/AllFiles/pos_desktop/flutter_desktop_pos/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/blackai/AllFiles/pos_desktop/flutter_desktop_pos/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/blackai/AllFiles/pos_desktop/flutter_desktop_pos/build/linux/x64/debug/bundle/data/flutter_assets/version.json
